@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakimleslie1990.
 - 👀 I’m interested in full stack web and software development.
 - 🌱 I’m currently learning Currently mobile application for both Android & iOS development.
-- 💞️ I’m looking to collaborate on simulation development in the private sector.
+- 💞️ I’m looking to collaborate on simulation development in the public sector.
 - 📫 E-mail Shakimleslie1990@yahoo.com  Subject: Git Hub inquiry.
 
 <!---

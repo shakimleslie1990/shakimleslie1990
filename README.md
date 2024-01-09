@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shakimleslie1990.
+- 👋 Hi, I’m Shakim Leslie.
 - 👀 I’m interested in full stack web and software development.
 - 🌱 I’m currently inspiring to work on innovative computer projects.
 - 💞️ I’m looking to collaborate on web development in the public sector.

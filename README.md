@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shakim Leslie.
+- 👀 I’m interested in full stack web and software development.
+- 🌱 I’m currently inspiring to work on innovative computer projects.
+- 💞️ I’m looking to collaborate on software development in the public sector.
+- 📫 E-mail Shakimleslie1990@yahoo.com  Subject: Git Hub inquiry [Your Name].

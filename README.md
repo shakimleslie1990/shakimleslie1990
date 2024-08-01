@@ -1,7 +1,7 @@
-    👋 Hi, I’m @OceanSplash an upcoming front end web developer and game developer.
-    👀 I’m interested in developing interative and rich secure websites.
-    🌱 I’m currently learning Front-End web development and software development fundamentals.
-    💞️ I’m looking to collaborate on projects such as video game and web development projects (Front-End).
+    👋 Hi, I’m @OceanSplash an upcoming Back-End web developer and game developer.
+    👀 I’m interested in developing interative and rich secure back-end website applications.
+    🌱 I’m currently learning Back-End web development and software development fundamentals.
+    💞️ I’m looking to collaborate on projects such as video game and web development projects (Back-End).
     📫 How to reach me by E-mail @ shakimleslie1990@yahoo.com SUBJECT [Github Inquiry - (company name)]
 
 

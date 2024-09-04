@@ -1,4 +1,4 @@
-    👋 Hi, I’m @OceanSplash an upcoming Back-End web developer and game developer.
+    👋 Hi, I’m Shakim. An upcoming computer support specialist.
     👀 I’m interested in developing interative and rich secure back-end website applications.
     🌱 I’m currently learning Back-End web development and software development fundamentals.
     💞️ I’m looking to collaborate on projects such as video game and web development projects (Back-End).

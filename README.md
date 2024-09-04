@@ -1,4 +1,4 @@
-    👋 Hi, I’m Shakim. An upcoming computer support specialist.
+    👋 Hi, I’m Shakim Leslie. An upcoming computer support specialist.
     👀 I’m interested in developing interactive gaming and simulation applications.
     🌱 I’m currently studying the fundamentals of software engineering and game development.
     💞️ I’m looking to collaborate on projects such as software engineering and game development.

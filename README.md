@@ -1,7 +1,7 @@
     👋 Hi, I’m Shakim. An upcoming computer support specialist.
-    👀 I’m interested in developing interative and rich secure back-end website applications.
-    🌱 I’m currently learning Back-End web development and software development fundamentals.
-    💞️ I’m looking to collaborate on projects such as video game and web development projects (Back-End).
+    👀 I’m interested in developing interative gaming and simulation applications.
+    🌱 I’m currently studying the fundamentals of software engineering and game development.
+    💞️ I’m looking to collaborate on projects such as software engineering and game development.
     📫 How to reach me by E-mail @ shakimleslie1990@yahoo.com SUBJECT [Github Inquiry - (company name)]
 
 

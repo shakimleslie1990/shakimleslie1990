@@ -1,4 +1,4 @@
-    👋 Hi, I’m Shakim Leslie. I currently a hobbyist software developer.
+    👋 Hi, I’m Shakim Leslie. I currently an upcoming content creator and game developer.
     👀 I’m interested in developing interactive gaming and simulation applications.
     🌱 I’m currently studying the fundamentals of software engineering and game development.
     💞️ I’m looking to collaborate on projects such as software engineering and game development.

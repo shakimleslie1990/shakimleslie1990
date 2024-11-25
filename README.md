@@ -1,7 +1,7 @@
-    👋 Hi, I’m Shakim Leslie. I currently an upcoming content creator and game developer.
-    👀 I’m interested in developing interactive gaming and simulation applications.
+    👋 Hi, I’m Shakim Leslie. I currently an upcoming content full-stack software developer.
+    👀 I’m interested in developing web technologies and mobile applications.
     🌱 I’m currently studying the fundamentals of software engineering and game development.
-    💞️ I’m looking to collaborate on projects such as software engineering and game development.
+    💞️ I’m looking to collaborate on projects such as web projects and mobile development.
     📫 How to reach me by E-mail @ shakimleslie1990@yahoo.com SUBJECT [Github Inquiry - (company name)]
 
 

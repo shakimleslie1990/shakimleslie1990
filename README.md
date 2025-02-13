@@ -1,7 +1,7 @@
-    👋 Hi, I’m Shakim Leslie. I currently learning video game and simulation development.
-    👀 I’m interested in developing mobile and desktop video games.
-    🌱 I’m currently studying the fundamentals of software engineering and game development.
-    💞️ I’m looking to collaborate on projects such as video game and mobile development. projects.
+    👋 Hi, I’m Shakim Leslie. I currently learning mobile and mobilesimulation development.
+    👀 I’m interested in developing mobile and simulation appliications.
+    🌱 I’m currently studying the fundamentals of software engineering and mobile development.
+    💞️ I’m looking to collaborate on projects such as computer simulations and mobile development. projects.
     📫 You can reach me by E-mail @ shakimleslie1990[at]yahoo.com - SUBJECT [Github Inquiry - (company name)]
 
 
